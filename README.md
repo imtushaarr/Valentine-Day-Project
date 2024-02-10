@@ -1,4 +1,4 @@
-##Valentine's Day Card Project
+### Valentine's Day Card Project
 
 This project is a simple and interactive Valentine's Day card created using HTML, CSS, and JavaScript/jQuery. It features a charming animated design with a heart-themed envelope and a greeting card that pops up when hovered over.
 
